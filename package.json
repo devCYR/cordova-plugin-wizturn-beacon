@@ -1,0 +1,17 @@
+{
+  "name": "Beacon",
+  "version": "0.0.1",
+  "description": "use WizTurn Beacon",
+  "cordova": {
+    "id": "cordova-plugin-beacon",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "GNCO",
+  "license": "GNCO"
+}
